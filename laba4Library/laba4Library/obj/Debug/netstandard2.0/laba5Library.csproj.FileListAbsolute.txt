@@ -1,0 +1,9 @@
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\bin\Debug\netstandard2.0\laba5Library.deps.json
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\bin\Debug\netstandard2.0\laba5Library.dll
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\bin\Debug\netstandard2.0\laba5Library.pdb
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\obj\Debug\netstandard2.0\laba5Library.csprojAssemblyReference.cache
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\obj\Debug\netstandard2.0\laba5Library.AssemblyInfoInputs.cache
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\obj\Debug\netstandard2.0\laba5Library.AssemblyInfo.cs
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\obj\Debug\netstandard2.0\laba5Library.csproj.CoreCompileInputs.cache
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\obj\Debug\netstandard2.0\laba5Library.dll
+D:\Code\C#\ИСРППС\laba4Library\laba4Library\obj\Debug\netstandard2.0\laba5Library.pdb
